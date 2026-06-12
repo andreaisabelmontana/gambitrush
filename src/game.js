@@ -1,4 +1,4 @@
-// Knightmare — survive an escalating hazard board.
+// Chess Dodge — survive an escalating hazard board.
 //
 // You occupy one square of a 6×6 grid. Each wave, chess-piece hazards telegraph
 // the squares they're about to strike — a Rook sweeps a full row or column, a

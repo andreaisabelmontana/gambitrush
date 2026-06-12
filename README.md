@@ -1,8 +1,8 @@
-# Knightmare
+# Chess Dodge
 
 A fast survival arcade game on a **6×6 board**. Chess-piece hazards telegraph the squares they're about to strike — dodge off them in time or the run ends. Survive a wave and the board only gets faster and busier. How many waves can you outlast?
 
-**▶ Play:** https://andreaisabelmontana.github.io/knightmare/
+**▶ Play:** https://andreaisabelmontana.github.io/chess-dodge-game/
 
 > **Not an original idea.** This recreates the concept of an existing project — I didn't invent it. I rebuilt it from scratch, my own way, out of curiosity about how it actually works (and tried to make it a little better along the way).
 
